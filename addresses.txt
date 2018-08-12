@@ -1,0 +1,211 @@
+
+   ÛÛÛÛÛÛÛÛÛ       ÛÛÛÛÛ     ÛÛÛÛÛ                                               
+  ÛÛÛ°°°°°ÛÛÛ     °°ÛÛÛ     °°ÛÛÛ                                                
+ °ÛÛÛ    °ÛÛÛ   ÛÛÛÛÛÛÛ   ÛÛÛÛÛÛÛ ÛÛÛÛÛÛÛÛ  ÛÛÛÛÛÛ  ÛÛÛÛÛ  ÛÛÛÛÛ   ÛÛÛÛÛÛ  ÛÛÛÛÛ 
+ °ÛÛÛÛÛÛÛÛÛÛÛ  ÛÛÛ°°ÛÛÛ  ÛÛÛ°°ÛÛÛ°°ÛÛÛ°°ÛÛÛÛÛÛ°°ÛÛÛÛÛÛ°°  ÛÛÛ°°   ÛÛÛ°°ÛÛÛÛÛÛ°°  
+ °ÛÛÛ°°°°°ÛÛÛ °ÛÛÛ °ÛÛÛ °ÛÛÛ °ÛÛÛ °ÛÛÛ °°°°ÛÛÛÛÛÛÛ°°ÛÛÛÛÛ°°ÛÛÛÛÛ °ÛÛÛÛÛÛÛ°°ÛÛÛÛÛ 
+ °ÛÛÛ    °ÛÛÛ °ÛÛÛ °ÛÛÛ °ÛÛÛ °ÛÛÛ °ÛÛÛ    °ÛÛÛ°°°  °°°°ÛÛÛ°°°°ÛÛÛ°ÛÛÛ°°°  °°°°ÛÛÛ
+ ÛÛÛÛÛ   ÛÛÛÛÛ°°ÛÛÛÛÛÛÛÛ°°ÛÛÛÛÛÛÛÛÛÛÛÛÛ   °°ÛÛÛÛÛÛ ÛÛÛÛÛÛ ÛÛÛÛÛÛ °°ÛÛÛÛÛÛ ÛÛÛÛÛÛ 
+°°°°°   °°°°°  °°°°°°°°  °°°°°°°°°°°°°     °°°°°° °°°°°° °°°°°°   °°°°°° °°°°°°  
+
+* GodMode: 0x117BCE8
+- Normal ( FC 01 10 00 41 80 01 14 )
+- Real GodMode ( 38 60 7F FF B0 7F 00 B4 )
+--------------------------------------------------------------
+* NoCops: 0x1034060
+- Normal ( 81 7D 00 04 )
+- No Cops ( 39 60 00 00 )
+--------------------------------------------------------------
+Unlimited ammo (999/99):
+0xFC44E4 - 3b a0 03 e7
+0xFD1210 - 38 e0 00 63
+Bigger Clip
+0xFC44E4 - 3b a0 7F FF
+Bigger Magazine
+0xFD1210 - 38 e0 7F FF
+--------------------------------------------------------------
+* Walk Speed: 0x4113CA5C
+* Crouch Speed: 0x4113CA78
+* Swim Speed: 0x4113CA58
+- All Speed Offsets ( Normal - 3F 80 00 00 ) ( x2 - 40 00 00 00 ) ( x10 - 41 20 00 00 ) ( x100 - 42 C8 00 00 ) ( x1000 - 44 7A 00 00 )
+----------------------------------------------------
+* Big Guns: 0x139E0
+- Normal ( 3F 80 00 00 )
+- Big Guns ( 40 00 00 00 )
+--------------------------------------------------------------
+* Slow Motion: 0x1CB3F6C
+- Normal ( 3F 80 00 00 )
+- Slow Motion ( 3F 00 00 00 )
+--------------------------------------------------------------
+* Car Super Jump: 0x1A7B690
+- Normal ( 3F 00 00 00 )
+- Car Super Jump ( 4D 00 00 00 )
+--------------------------------------------------------------
+* TimeScale x1000: 0x2C7A5C
+- Normal ( FC 40 E8 90 )
+- TimeScale x1000 ( EC 42 10 BA )
+--------------------------------------------------------------
+* Gravity: 0x1A7B678
+- Gravity ( Normal - 3F 80 00 00 ) ( x2 - 40 00 00 00 ) ( x10 - 41 20 00 00 ) ( x100 - 42 C8 00 00 ) ( x1000 - 44 7A 00 00 )
+--------------------------------------------------------------
+* Sky Colour: 0x48F414
+- NORMAL ( 04 05 06 07 08 09 0A 0B 18 19 1A 1B F8 )
+- PURPLE ( F4 05 06 07 08 09 0A 0B 18 19 1A 1B F8 )
+- ORANGE ( 04 F4 06 07 08 09 0A 0B 18 19 1A 1B F8 )
+- YELLOW ( 04 05 06 07 F4 09 0A 0B 18 19 1A 1B F8 )
+- NEON BLUE ( F4 05 06 07 00 09 0A 0B 00 19 1A 1B F8 )
+- PEACH ( F4 05 06 07 F4 09 0A 0B F4 19 1A 1B F8 )
+- BLURPLE( 00 05 06 07 F4 09 0A 0B 00 19 1A 1B F8 )
+- TEA ( 00 00 00 00 F4 F4 00 00 00 00 1A 1B F8 )
+- LIGHTNING BLUE ( 00 00 00 00 00 00 00 00 00 00 1A 1B F8 )
+- PINK ( F4 F4 F4 F4 F4 F4 F4 F4 F4 F4 F4 1B F8 )
+- DAFAQ ( 00 00 00 00 F4 F4 00 00 00 00 00 00 F8 )
+--------------------------------------------------------------
+* Broken Glass Colour: 0x495EF4
+- NORMAL ( 02 03 01 11 04 05 02 12 06 07 03 13 80 00 00 00 )
+- WHITE ( 12 11 12 12 12 12 12 12 B3 F3 F3 00 00 00 00 00 )
+- RED ( 02 55 FF FF FF FF FF FF FF FF FF F0 00 00 00 00 )
+- YELLOW ( 55 55 55 55 55 55 55 55 55 F3 F3 00 00 00 00 00 )
+- GREEN ( 00 00 00 05 55 55 55 55 55 F3 F3 00 00 00 00 00 )
+- BLUE ( 7F F2 05 55 05 F9 F9 F9 B3 F3 F3 00 00 00 00 00 )
+- BLACK ( FF FF FF FF FF FF FF FF FF FF FF 00 00 00 00 00 )
+- SKY-BLUE ( 7F F2 05 55 05 F4 09 12 B3 F3 F3 00 00 00 00 00 )
+- ORANGE ( 12 11 12 55 05 F4 09 12 B3 03 F3 00 00 00 00 00 )
+- PINK ( 12 11 12 55 05 F4 09 12 B3 F3 F3 00 00 00 00 00 )
+- FUCHSIA ( 12 11 12 12 12 F4 09 12 B3 F3 F3 00 00 00 00 00 )
+
+=====================================================================================
+
+
+- GodMode: 0x112AA60
+- Normal ( FC 01 10 00 or 41 80 01 14 )
+- Real GodMode ( 38 60 7F FF or B0 7F 00 B4 )
+
+- Cops: 0xFE944C
+- Normal ( 81 7D 00 04 )
+- 1 Star ( 39 60 00 69 )
+- 2 Star ( 39 60 02 00 )
+- 3 Star ( 39 60 04 74 )
+- 4 Star ( 39 60 07 69 )
+- 5 Star ( 39 60 16 44 )
+- No Cops ( 39 60 00 00 )
+
+- Walk Speed: 0x411B88AC
+- Crouch Speed: 0x411B88C8
+- Swim Speed: 0x411B88A8
+- All Speed Offsets
+( Normal - 3F 80 00 00 )
+( x2 - 40 00 00 00 )
+( x10 - 41 20 00 00 )
+( x100 - 42 C8 00 00 )
+( x1000 - 44 7A 00 00 )
+
+- Garage 1 Pointer: 0x1DDB708
+- Convert first four bytes to offset and you will get garage 1 offset
+
+- Neon: 0x1FF4E70
+- First 4 bytes = Red Colour | Next 4 bytes = Green Colour | Next 4 bytes = Blue Colour
+
+- WayPoint: 0x1CC7840
+- First 4 bytes = X Origin | Next 4 bytes = Y Origin
+
+- Big Guns: 0x1D1F0
+- Normal ( 3F 80 00 00 )
+- Big Guns ( 40 00 00 00 )
+
+- Slow Motion: 0x1C317E8
+- Normal ( 3F 80 00 00 )
+- Slow Motion ( 3F 00 00 00 )
+
+- Car Super Jump: 0x19FB510
+- Normal ( 3F 00 00 00 )
+- Car Super Jump ( 4D 00 00 00 )
+
+- TimeScale x1000: 0x2BADF8
+- Normal ( FC 40 E8 90 )
+- TimeScale x1000 ( EC 42 10 BA )
+
+- Gravity: 0x19FB4F8
+- Gravity
+( Normal - 3F 80 00 00 )
+( x2 - 40 00 00 00 )
+( x10 - 41 20 00 00 )
+( x100 - 42 C8 00 00 )
+( x1000 - 44 7A 00 00 )
+
+- Sky Colour: 0x478664
+- NORMAL ( 04 05 06 07 08 09 0A 0B 18 19 1A 1B F8 )
+- PURPLE ( F4 05 06 07 08 09 0A 0B 18 19 1A 1B F8 )
+- ORANGE ( 04 F4 06 07 08 09 0A 0B 18 19 1A 1B F8 )
+- YELLOW ( 04 05 06 07 F4 09 0A 0B 18 19 1A 1B F8 )
+- NEON BLUE ( F4 05 06 07 00 09 0A 0B 00 19 1A 1B F8 )
+- PEACH ( F4 05 06 07 F4 09 0A 0B F4 19 1A 1B F8 )
+- BLURPLE( 00 05 06 07 F4 09 0A 0B 00 19 1A 1B F8 )
+- TEA ( 00 00 00 00 F4 F4 00 00 00 00 1A 1B F8 )
+- LIGHTNING BLUE ( 00 00 00 00 00 00 00 00 00 00 1A 1B F8 )
+- PINK ( F4 F4 F4 F4 F4 F4 F4 F4 F4 F4 F4 1B F8 )
+- DAFAQ ( 00 00 00 00 F4 F4 00 00 00 00 00 00 F8 )
+
+- Broken Glass Colour: 0x47F124
+- NORMAL ( 02 03 01 11 04 05 02 12 06 07 03 13 80 00 00 00 )
+- WHITE ( 12 11 12 12 12 12 12 12 B3 F3 F3 00 00 00 00 00 )
+- RED ( 02 55 FF FF FF FF FF FF FF FF FF F0 00 00 00 00 )
+- YELLOW ( 55 55 55 55 55 55 55 55 55 F3 F3 00 00 00 00 00 )
+- GREEN ( 00 00 00 05 55 55 55 55 55 F3 F3 00 00 00 00 00 )
+- BLUE ( 7F F2 05 55 05 F9 F9 F9 B3 F3 F3 00 00 00 00 00 )
+- BLACK ( FF FF FF FF FF FF FF FF FF FF FF 00 00 00 00 00 )
+- SKY-BLUE ( 7F F2 05 55 05 F4 09 12 B3 F3 F3 00 00 00 00 00 )
+- ORANGE ( 12 11 12 55 05 F4 09 12 B3 03 F3 00 00 00 00 00 )
+- PINK ( 12 11 12 55 05 F4 09 12 B3 F3 F3 00 00 00 00 00 )
+- FUCHSIA ( 12 11 12 12 12 F4 09 12 B3 F3 F3 00 00 00 00 00 )
+
+- Unlimited Ammo: 0xF7DB38 + 0xF8A370
+- Normal 0xF7DB38 ( 63 FD 00 00 ) + 0xF8A370 ( 60 A4 00 00 )
+- Unlimited Ammo 0xF7DB38 ( 3B A0 03 E7 ) + 0xF8A370 ( 38 E0 00 63 )
+
+- Name Changer: 0x411BABA4
+- Change to any text's bytes
+
+- Inf Special: 0x10C667C
+- Normal (C0 3F 00 2C)
+- Inf Special (C0 3F 00 34)
+
+- Vehicle Texture: 0x47D9A0
+- Normal ( 3B 80 80 81 )
+- SnowyRustRainbow ( 3F 80 80 81 )
+- Black ( FF 80 80 81 )
+
+- Super Jump: 0x5CFFF0
+- Normal ( 41 82 00 10 )
+- SuperJump ( 60 00 00 00 )
+
+- Super Speed: 0x6243C8
+- Normal ( EF FF 01 32 )
+- SuperSpeed ( 60 00 00 00 )
+
+- SuperMan: 0x1DB1004
+- Normal ( C0 )
+- SuperMan ( 40 )
+
+- Pants Color: 0x47A754
+- Normal ( 04 05 06 07 08 09 0A 0B 10 11 12 13 3B 80 80 81 00 00 00 FF )
+- PURPLE ( 46 3F 3F 3F 3F 08 09 0A 10 11 12 13 3B 80 )
+- ORANGE ( 12 11 12 55 05 F4 09 12 B3 03 F3 00 00 00 00 00 00 00 00 FF )
+- YELLOW ( 7F F2 05 55 05 F4 09 12 B3 F3 F3 00 00 00 00 00 00 00 00 FF )
+- RED ( 4A 89 0B 0B B7 08 09 0A 0F 10 11 12 13 3B )
+- GREEN ( 4C 0A 0B 0C 09 02 0A 0B 0C 0F 0C 0C 0C 80 )
+
+- SpawnCheat Vehicle: 0x320DF123
+- Normal ( 01 )
+- Activated ( 02 )
+
+- Weather Scale: 0x9EBF48
+- Normal ( 44 7A 00 00 )
+- SlowerWeather ( 42 C8 00 00 )
+- FastWeather ( 48 80 00 00 )
+
+- Cheat Vehicle: 0x320DF174
+- Normal bmx ( 43 77 9C 54 )
+- New Vehicle Bytes Example: monster truck ( CD 93 A7 DB )
+
+Teleport Offset : 0x1BFE4FC
